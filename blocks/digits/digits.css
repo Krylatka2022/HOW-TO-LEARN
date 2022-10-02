@@ -1,0 +1,9 @@
+/*БЛОК___3*/
+.digits {
+    margin-bottom: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-between;
+}

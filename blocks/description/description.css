@@ -1,0 +1,8 @@
+/*БЛОК___2*/
+.description {
+    margin: 100px auto 100px;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+}
