@@ -1,0 +1,11 @@
+/*3.*Общий блок*/
+.table_theme_dark {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 auto 90px;
+    align-content: center;
+    z-index: 2;
+    padding: 0;
+    row-gap: 0;
+}

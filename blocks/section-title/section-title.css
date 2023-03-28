@@ -1,0 +1,14 @@
+/*1. Цифры и факты*/
+.section-title {
+    margin: 0px auto 0px;
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    align-items: center;
+    align-content: center;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 1.15;
+    color: #1f1f1f;
+    z-index: 2;
+}

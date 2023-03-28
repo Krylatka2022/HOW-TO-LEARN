@@ -1,0 +1,11 @@
+/*БЛОК___5 Кауфман*/
+.kaufman {
+    background-color: #1f1f1f;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    z-index: 1;
+    overflow: hidden;
+}

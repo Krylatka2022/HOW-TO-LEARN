@@ -1,0 +1,13 @@
+.footer__column-links {
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-end;
+    color: white;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 600;
+    margin: 20px 0 16px;
+}
